@@ -42,6 +42,104 @@ C:\Users\Usuario>exit
 _Nota:_ En la consola de comandos la dirección del directorio principal "C:\Users\Usario>" puede variar al igual que la instancia de alojamiento del aplicativo dependiendo del equipo en donde estemos trabajando.
 
 ## Paso 4: Configuración de Git
+Para poder donfigurar GIT usaremos dos comandos. uno nos permite asignar un nombre de usuario dentro de la terminal y el otro nos dejara asignar un correo electronico. Estos comandos deben de ser ejecutados en la terminal de git, la cuál lleva el nombre de (GitBash).
+
+_Primer comando de asignación de nombre de usuario_
+
+_figura 3_
+
+![image](https://github.com/Brayan-Hc11/GIT/assets/118775234/55941c93-87a6-460c-9ab9-765ce7f1dfea)
+
+_El segundo comando nos permnitira asignar un correo electronico_
+
+_Figura 4_
+
+![image](https://github.com/Brayan-Hc11/GIT/assets/118775234/739a55e4-7b20-438c-9032-4c1eb777a334)
+
+## Paso 5: Configuración de  IDE(Vs Code)
+En nuestro caso estaremos usando el editor de texto Vs Code, para configurar [Vs Code](https://code.visualstudio.com) desde nuestra terminal de GIT debemos de habeelo instalado previamente, a continuacion le indicaremos a GIT que usaremos Vs Code como nuestro editor de texto por medio de un comando.
+
+_Figura 5_
+
+![image](https://github.com/Brayan-Hc11/GIT/assets/118775234/75d6102e-9710-4a0f-b3f6-e3317bc939f8)
+
+Para poder visualizar la configuración global usaremos un comando que nos mostrará las configuraciones que hemos hecho.
+
+~~~
+git config --global -e
+~~~
+_Nota:_ Despues de ejecutar este comando se nos abrira la una ventana de Vs code donde se nos mostrará la lista de configuraciones que estaremos realizando.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
