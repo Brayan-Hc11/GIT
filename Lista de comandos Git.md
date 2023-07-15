@@ -27,4 +27,19 @@ Este otro comando nos permitirá ver el archivo de configuración global en Vs c
 $git config --global -e
 ~~~
 
+ Este comando nos permitira cambiar la propiedad de scritura en distintos sistemas operativos, el comando nos permitira que la escritura sea compatible entre varios sistemas opertarivos.para estotendremos que usar una varible especifica para cada sistema operativo
+
+ _Variables_
+
+   - para Windows (true)
+~~~
+$git config --global core.autocrlf true
+~~~
+ 
+   - para Linux/Mac (input)
+
+~~~
+$git config --global core.autocrlf input
+~~~
+
 
