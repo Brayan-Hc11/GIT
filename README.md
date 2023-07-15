@@ -70,6 +70,23 @@ git config --global -e
 ~~~
 _Nota:_ Despues de ejecutar este comando se nos abrira la una ventana de Vs code donde se nos mostrará la lista de configuraciones que estaremos realizando.
 
+## Paso 6: Configuración de escritura
+Para poder definir un método de escritura en GIT es necesario el siguiente comando, ya que cada sistema operativo usa un metodo de escritura distinto para Git es dificl llegar a convertir este tipo de caracteres a caracteres legibles para los programadores.
+
+_Nota:_ Este comando posee dos valores muy importantes, que dependiendo del sistema operativo este va a cambiar:
+
+ - Para Windows
+   
+~~~
+$ git config --global core.autocrlf true
+~~~
+
+  - Para Mac/Linux
+
+~~~
+$ git config --global core.autocrlf input
+~~~
+
 
 
 
