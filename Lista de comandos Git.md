@@ -1,13 +1,16 @@
 <div align="center">
+  <img src="https://github.com/Brayan-Hc11/devicon/blob/master/icons/git/git-original-wordmark.svg" height="80"/>
   
   # Lista de comandos usados en git  
 </div>
 
 ***
 
-## Comandos de asignación
-
-Este comando nos permite asignar un nombre de usuario al interior de la terminal de Git.
+<details>
+  <summary>
+   <h2>Comandos de asignación</h2>
+  </summary>
+  Este comando nos permite asignar un nombre de usuario al interior de la terminal de Git.
 ~~~
 Usario@DESKTOP-LCDDO8M MINGW64 ~
 $ Git config --global user.name "nombre de usuario"
@@ -60,8 +63,13 @@ $ git config -h
 ~~~
 ***
 
-## Comandos de utilidad
+</details>
 
+***
+<details>
+  <summary>
+   <h2>Comandos de utilidad</h2>
+  </summary>
 Para limpiar la terminal despues de haberce llenado ocuparemos el comando de limpieza general
 ~~~
 Usario@DESKTOP-LCDDO8M MINGW64 ~
@@ -82,8 +90,14 @@ Usario@DESKTOP-LCDDO8M MINGW64 ~
 $ ls
 ~~~
 ***
+</details>
 
-## Comando de movimiento dentro de la terminal
+***
+<details>
+  <summary>
+   <h2>Comando de movimiento dentro de la terminal</h2>
+  </summary>
+
 Para poder movilizarnos entre las distintas estancias y carpetas que tenemos disponibles usaremos una serie de comando de movimiento:
 
 _comando para poder movernos entre carpetas_
@@ -121,8 +135,15 @@ Usuario@DESKTOP-LDCDO8M MINGW64 ~
 $ |
 ~~~
 ***
+</details>
 
-## Creación y manipulación de directorios o carpetas
+***
+<details>
+  <summary>
+    <h2>Creación y manipulación de directorios o carpetas</h2>
+  </summary>
+
+
 Para poder crear una carpeta nueva es necesario conocer la ubicación actual en la que nos escontramos con ayude del comando (pwd) podemos hacerlo, ya conociendo la ubicación en la que estamos usaremos el comando de (mkdir) seguido del nombre que queremos darle a nuestra nueva carpeta.
 
 _Ejemplo:_
@@ -130,9 +151,14 @@ _Ejemplo:_
 Usuario@DESKTOP-LDCDO8M MINGW64 ~/Downloads
 $mkdir miweb
 ~~~
-***
+</details>
 
-## Inicialización de un repositorio
+***
+<details>
+  <summary>
+     <h2>Inicialización de un repositorio</h2>
+  </summary>
+
 inicializaremos un repositorio desde GIT, para esto estaremos ubicados en la ruta en donde queremos que se inicialice el repositorio
 
 ~~~
@@ -165,8 +191,14 @@ $ls -a
 . / ../ .git/
 ~~~
 ***
+</details>
 
-## Detalle de implementación 
+***
+<details>
+  <summary>
+    <h2> Detalle de implementación </h2>
+  </summary>
+
 Ahora que nos encontramos en el repositorio nos moveremos al contenido del archivo de la siguiente forma, esto para lograr ver el detalle de implementación que git nos ofrece en la creación de repositorios.
 ~~~
 Usario@DESKTOP-LCDDO8M MINGW64 ~/Downloads/miweb (master)
@@ -187,7 +219,9 @@ Usario@DESKTOP-LCDDO8M MINGW64 ~/Downloads/miweb (GIT_DIR!)
 $ls -a
 . / ../ HEAD config description hooks/ info/ objects/ refs/
 ~~~
+</details>
 
+***
 
 
 
