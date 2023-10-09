@@ -11,19 +11,20 @@
    <h2>Comandos de asignación</h2>
   </summary>
   Este comando nos permite asignar un nombre de usuario al interior de la terminal de Git.
+
 ~~~
 Usario@DESKTOP-LCDDO8M MINGW64 ~
 $ Git config --global user.name "nombre de usuario"
 ~~~
-***
 
+***
 Este comando nos permitirá asignar un correo electronico al interior de la terminal
 ~~~
 Usario@DESKTOP-LCDDO8M MINGW64 ~
 $ gir config --global user.email correoelectronico@gmial.com
 ~~~
-***
 
+***
 Este otro comando nos permitirá asignar un IDE para trabajar en nuestros proyectos y repositorios
 ~~~
 Usario@DESKTOP-LCDDO8M MINGW64 ~
