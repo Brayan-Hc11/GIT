@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Brayan-Hc11/devicon/blob/master/icons/git/git-original-wordmark.svg" height="80"/>
+
   
   # Lista de comandos usados en git  
 </div>
