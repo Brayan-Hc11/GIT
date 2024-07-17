@@ -1,5 +1,6 @@
 <div align="center">
-
+  
+![image](https://github.com/Brayan-Hc11/GIT/assets/118775234/3d9e5d22-44d7-4327-b8c3-a254a7f39f19)
   
   # Lista de comandos usados en git  
 </div>
