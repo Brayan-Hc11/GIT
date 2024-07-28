@@ -1,0 +1,3 @@
+Ruta del directorio de trabajo = /c/Users/braya
+Directorio de trabajo actual para Git = workspaces/ 
+repositorio de trabajo temporal para Git = miweb/
