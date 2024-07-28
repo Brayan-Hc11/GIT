@@ -27,4 +27,5 @@ Para ejecutar los siguientes comandos es necesario abrir la terminal de comandos
 |Git checkout -b|Nos permite crear una nueva rama además de la principal.|~$ Git checkout -b + "nombre de la rama"|
 |cat |Nos permite acceder al contenido que encuentre el ese documento especifico.|~$ cat + "Nombre del documento"|
 |Git Checkout|Nos permite movernos entre las ramas disponibles en el repositiorio|~$ Git checkout + "Nombre de la rama"|
-|Git remote add | Nos permite subir nuestros cambios a la nube en este caso será un repositorio en GitHub|~$ Git remote add "URL de repositorio en la nube"
+|Git remote add | Nos permite subir nuestros cambios a la nube en este caso será un repositorio en GitHub|~$ Git remote add "URL de repositorio en la nube"|
+|Git push -u origin main|Nos permite subir los cambios mas recientes de nuestro repositorio|~$ Git push -u origin main|
