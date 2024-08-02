@@ -1,4 +1,4 @@
-![imagen](https://github.com/Brayan-Hc11/GIT/assets/118775234/3d9e5d22-44d7-4327-b8c3-a254a7f39f19)
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="120" height="120"/>
 
 # Introducción a Git
 
