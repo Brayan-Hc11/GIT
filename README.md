@@ -1,12 +1,11 @@
-<div align="center">
-
 ![imagen](https://github.com/Brayan-Hc11/GIT/assets/118775234/3d9e5d22-44d7-4327-b8c3-a254a7f39f19)
+
+# Introducción a Git
 
 # ¿Qué es GIT?
 
-Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
-
-</div>
+Git es un sistema de control de versiones distribuido que te ayuda a llevar un seguimiento de los cambios en tu código y colaborar con otros 
+desarrolladores. Es una herramienta esencial para el desarrollo de software, ya que te permite gestionar y coordinar el trabajo en proyectos de manera eficiente.
 
 *fuente de información: [Wikipedia](https://es.wikipedia.org/wiki/Git)*
 
