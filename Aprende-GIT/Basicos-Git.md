@@ -1,6 +1,6 @@
 # Comandos en Git
 
-Para ejecutar los siguientes comandos es necesario abrir la terminal de comandos que se incluye en la instalación de Git, la terminal que usaremos para ejecutar los comandos desde ahora será la terminal de Git Bash.
+Para ejecutar los comandos a continuación, es necesario utilizar la terminal de comandos incluida con la instalación de Git. A partir de ahora, utilizaremos la terminal de Git Bash para ejecutar estos comandos.
 
 ---
 ## Sintaxis de comandos
@@ -29,3 +29,4 @@ Para ejecutar los siguientes comandos es necesario abrir la terminal de comandos
 |Git Checkout|Nos permite movernos entre las ramas disponibles en el repositiorio|~$ Git checkout + "Nombre de la rama"|
 |Git remote add | Nos permite subir nuestros cambios a la nube en este caso será un repositorio en GitHub|~$ Git remote add "URL de repositorio en la nube"|
 |Git push -u origin main|Nos permite subir los cambios mas recientes de nuestro repositorio|~$ Git push -u origin main|
+|git branch -M main| Nos permite cambiar la rama generica(master) por la rama de carga primaria(main) |~$ Git branch -M main|
